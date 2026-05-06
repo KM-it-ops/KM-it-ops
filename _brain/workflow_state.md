@@ -1,0 +1,5 @@
+- [x] Confirm required brain files are absent.
+- [x] Gather recent commits and diff against `main`.
+- [x] Trace changed behavior for critical correctness, security, crash, or data-loss bugs.
+- [x] No critical bug exists; no fix or tests needed.
+- [x] Report outcome.
