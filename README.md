@@ -104,7 +104,7 @@ status: open-to-work
   <a href="mailto:kurdi.michael.it@gmail.com"><img src="https://img.shields.io/badge/Email-kurdi.michael.it%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-- **Portfolio:** [km-it-ops.github.io](https://km-it-ops.github.io/) · [web resume](https://km-it-ops.github.io/resume/)
+- **Portfolio:** [km-it-ops.github.io](https://km-it-ops.github.io/) · [web resume](https://km-it-ops.github.io/resume)
 - **Résumé PDF:** [Michael_Kurdi_Resume_2026.pdf](https://km-it-ops.github.io/assets/Michael_Kurdi_Resume_2026.pdf)
 - **LinkedIn:** [mahmoud-michael-al-kurdi](https://www.linkedin.com/in/mahmoud-michael-al-kurdi/)
 - **Email:** [kurdi.michael.it@gmail.com](mailto:kurdi.michael.it@gmail.com)
