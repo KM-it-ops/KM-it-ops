@@ -50,7 +50,7 @@ status: open-to-work
 | **Log anomaly detection** | Rule + statistics detector: brute force, port scans, off-hours file access, privilege-escalation patterns | [repo](https://github.com/KM-it-ops/security-log-anomaly-detection) |
 | **Phishing email classifier** | URL / PII / typosquat features + TF-IDF Random Forest | [repo](https://github.com/KM-it-ops/phishing-email-classifier) |
 | **VulnTrack** | Flask/SQLite vuln workflow with severity KPIs and status states | [repo](https://github.com/KM-it-ops/Vulnerability-Management-Mini-Program) |
-| **PromptRig** (engineering proof) | Offline prompt eval harness — not a substitute for operations tenure | [repo](https://github.com/KM-it-ops/PromptRig) |
+| **Proofhouse** (engineering proof) | Offline prompt eval harness — not a substitute for operations tenure | [repo](https://github.com/KM-it-ops/Proofhouse) |
 | **AgentForge** (secondary) | Multi-adapter agent config framework | [repo](https://github.com/KM-it-ops/AgentForge) |
 
 ---
@@ -61,7 +61,7 @@ status: open-to-work
 - Public detection and VM repos a reviewer can clone: logs, phishing, VulnTrack.
 - **8 years** regulated aviation security ops — access control, incident docs, escalation discipline.
 - Honest about exposure vs hands-on — no invented SIEM production tenure.
-- PromptRig / AgentForge are engineering proof; they do not replace the analyst headline.
+- Proofhouse / AgentForge are engineering proof; they do not replace the analyst headline.
 
 ---
 
