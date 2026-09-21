@@ -50,7 +50,7 @@ status: open-to-work
 | **Log anomaly detection** | Rule + statistics detector: brute force, port scans, off-hours file access, privilege-escalation patterns | [repo](https://github.com/KM-it-ops/security-log-anomaly-detection) |
 | **Phishing email classifier** | URL / PII / typosquat features + TF-IDF Random Forest | [repo](https://github.com/KM-it-ops/phishing-email-classifier) |
 | **VulnTrack** | Flask/SQLite vuln workflow with severity KPIs and status states | [repo](https://github.com/KM-it-ops/Vulnerability-Management-Mini-Program) |
-| **Proofhouse** (engineering proof) | Offline prompt eval harness — not a substitute for operations tenure | [repo](https://github.com/KM-it-ops/Proofhouse) |
+| **Proofhouse 0.2.1** (engineering proof) | Two local CLIs: `proofhouse-compiler` (offline compiler) and `proofhouse` (eval harness). Certified path is offline/no-key; no benchmark claims; Cursor skill included; not a hosted product. | [repo](https://github.com/KM-it-ops/Proofhouse) |
 | **AgentForge** (secondary) | Multi-adapter agent config framework | [repo](https://github.com/KM-it-ops/AgentForge) |
 
 ---
