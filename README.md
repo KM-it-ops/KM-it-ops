@@ -6,7 +6,7 @@
 
 <h1 align="left">Mahmoud Al Kurdi</h1>
 
-<p align="left"><strong>Junior Security Analyst · Security Operations · IT Risk</strong></p>
+<p align="left"><strong>Junior Security Analyst | Security Operations | IT Risk</strong></p>
 
 <p align="left">
   <a href="https://km-it-ops.github.io/"><img src="https://img.shields.io/badge/Portfolio-live-7cf0c1?style=flat-square&logo=github&labelColor=04060a" alt="Portfolio"></a>
@@ -19,7 +19,7 @@
 
 I'm Mahmoud Al Kurdi, a new security graduate in Charlotte, NC, looking for a full-time Tier-1 SOC (security operations center) or junior security analyst role, or a security operations, incident response, or vulnerability management seat. Remote works fine. I know SIEM tools from coursework, not from a production SOC.
 
-Before this I spent eight years at American Airlines (Mar 2015 to Nov 2023) in federally regulated aviation operations: Ramp Agent first (2015 to 2017), then Crew Chief, Fleet Service Agent for six years (2017 to 2023). It was an operations role, not a security role. The work ran on CBP-badged identity checks, access control, and documentation that had to hold up to inspection. After that, while working logistics jobs, I finished a B.S. in Information Technologies (Cybersecurity concentration) at SNHU, Summa Cum Laude with a 3.96 GPA, and earned CompTIA Security+ ce.
+Before this I spent eight years at American Airlines (Mar 2015 to Nov 2023) in federally regulated aviation operations: Ramp Agent first (2015 to 2017), then Crew Chief, Fleet Service Agent for six years (2017 to 2023). It was an operations role, not a security role. The work ran on CBP-badged identity checks, access control, and documentation that had to hold up to inspection. After that, while working logistics jobs, I finished a B.S. in Information Technologies, Cybersecurity concentration, at SNHU, Summa Cum Laude with a 3.96 GPA, and earned CompTIA Security+ ce.
 
 The repos below are the part you can actually check. Clone them, run them, read the code.
 
