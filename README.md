@@ -1,7 +1,7 @@
 <!-- Banner: Masked Signal profile header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KM-it-ops/KM-it-ops/main/assets/profile-banner.svg">
-  <img src="https://raw.githubusercontent.com/KM-it-ops/KM-it-ops/main/assets/profile-banner.svg" alt="Masked Signal: evidence-led defensive security by Mahmoud Al Kurdi" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KM-it-ops/KM-it-ops/main/assets/github-banner-mak-1500x500.png">
+  <img src="https://raw.githubusercontent.com/KM-it-ops/KM-it-ops/main/assets/github-banner-mak-1500x500.png" alt="Mahmoud Al Kurdi — Junior Security Analyst | Security Operations | IT Risk" width="100%">
 </picture>
 
 <h1 align="left">Mahmoud Al Kurdi</h1>
